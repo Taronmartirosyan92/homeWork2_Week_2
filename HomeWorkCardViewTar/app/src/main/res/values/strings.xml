@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWorkCardViewTar</string>
+    <string name="image_context">ImageContext</string>
+    <string name="zinedine_zidane">Zinedine Zidane</string>
+    <string name="comment_button">comment_button</string>
+    <string name="favorite_button">favorite_button</string>
+    <string name="comment_counter">0</string>
+    <string name="favorite_counter">0</string>
+    <string name="image_comm">image_comm</string>
+    <string name="comment">comment</string>
+    <string name="guf">Guf</string>
+</resources>
